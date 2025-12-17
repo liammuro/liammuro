@@ -1,6 +1,6 @@
-## Hi there
+## About me
 
-I'm Liam, a student at Swarthmore College studying Engineering and Computer Science. 
+I'm Liam, a student at Swarthmore College studying Computer Science. 
 
 
 <!--
